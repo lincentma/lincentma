@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🍻 Senior Platform Development Engineer at Netease.
-- ⚡ PHP / Python / Lua.
+- 🍻 Senior Platform Development Engineer at Netease
+- ⚡ PHP / Python / Lua
+- 🏃 Cycling
 
 ![lincentma's github stats](https://github-readme-stats.vercel.app/api?username=lincentma&show_icons=true&theme=graywhite&hide_title=true&layout=compact)
 

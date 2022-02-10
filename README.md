@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lincentma&hide_title=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lincentma&theme=graywhite&hide_title=true&show_icons=true&count_private=true&layout=compact&hide=javascript,html,css)
